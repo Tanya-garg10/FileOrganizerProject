@@ -1,0 +1,56 @@
+📁 File Organizer Project – Developer Notes
+
+🧾 Project Overview:
+
+This Python project automatically organizes files in a target directory into folders
+based on file type (Documents, Images, Videos, Others). It helps reduce clutter and improve productivity.
+
+🔧 Technologies Used:
+
+- Python 3.x
+- Visual Studio Code
+- Git & GitHub
+
+📁 Folder Structure:
+
+File_Organizer_Project/
+├── file_organizer.py          # Main Python script
+├── README.md                  # Project overview for GitHub
+├── User_Guide.md              # How to use the script (detailed)
+├── notes.txt                  # This file (developer notes)
+├── screenshots/               # Contains before and after screenshots
+│   ├── before.png
+│   └── after.png
+├── test_files/                # Sample unorganized files for testing
+│   ├── notes.pdf              # Document
+│   ├── image.jpg              # Image file
+│   ├── video.mp4              # Video file
+│   ├── random.zip             # Miscellaneous (goes to 'Others')
+│   └── doc.txt                # Text file (Document category)
+
+🧪 How the Script Works:
+
+1. User runs the script in terminal using:
+   python file_organizer.py
+
+2. Script asks for folder path to organize
+
+3. Files are moved into:
+   - Documents
+   - Images
+   - Videos
+   - Others
+
+🧠 Development Steps:
+
+- Created test files in 'test_files/' folder
+- Wrote and tested file_organizer.py script
+- Captured screenshots before and after running script
+- Wrote User_Guide.md and README.md
+- Uploaded everything to GitHub
+
+🌐 GitHub Repository:
+
+Link: https://github.com/Tanya-garg10/File_Organizer_Project
+
+✅ Done by: Tanya garg
